@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p welcome/to/school
+ls -amvp
+#!/bin/bash
+mkdir -p welcome/to/school
